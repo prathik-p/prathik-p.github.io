@@ -1,0 +1,6 @@
+.education {
+    &__item {
+        @include avoid-break;
+        margin-bottom: 1rem;
+    }
+}

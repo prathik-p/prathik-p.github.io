@@ -1,0 +1,165 @@
+BasicInfo:
+  FirstName: Prathik
+  LastName: Prejith
+  Photo:
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +91 79078 20024
+    - Icon: fas fa-envelope
+      Info: prathikprejith32@gmail.com
+    - Icon: fas fa-github
+      Info: <a class="contact__link" href="https://github.com/prathik-p" target="_blank">Github</a>
+    - Icon: fas fa-linkedin
+      Info: <a class="contact__link" href="https://www.linkedin.com/in/prathik-prejith-378305279/" target="_blank">LinkedIn</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Kochi
+
+Profile: I am an aspiring full-stack developer with a passion for creating dynamic and innovative applications. My journey in coding has led me to explore both front-end and back-end technologies, as I strive to master the full spectrum of development. With a growing interest in machine learning, I’m excited about integrating intelligent solutions into my projects. My ultimate goal is to build applications that are not only functional but also impactful, leveraging technology to solve real-world challenges.
+
+Experience:
+  - Employer: AI SPEED DETECTION
+    Place: Oxford, UK
+    Positions:
+      - Title:
+        Date:
+        Details:
+          - A fully built speed detection application that uses surveillance camera footage to detect speed and record vehicle number plates.
+          - The live footage is streamed and displayed in the application for users to view live updates with access to multiple locations.
+          - The application uses object tracking to detect vehicles and further enhances the plate information using super resolution to store it in the database. The plate information is then displayed in the application.
+          - <a class="contact__link" href="https://github.com/UnparallelStudios/ai-speed-frontend" target="_blank">Github Link</a>
+        Badges:
+          [
+            "Python",
+            "Flask API",
+            "Reactjs",
+            "Javascript",
+            "HTML",
+            "CSS",
+            "MongoDB",
+            "YOLOV8",
+            "BYTETRACK",
+          ]
+  - Employer: BLOG APPLICATION
+    Place: Lisbon, PT
+    Positions:
+      - Title:
+        Date:
+        Details:
+          - A simple blog application built using HTML/CSS, Flask api, SQL.
+          - Users are able to create and share blog posts from their own personalized profiles with options to update.
+          - <a class="contact__link" href="https://github.com/prathik-p/flaskblog-app" target="_blank">Github Link</a>
+        Badges: ["HTML", "CSS", "Python", "Flask API"]
+  - Employer: READING PROGRESS TRACKER
+    Place: Graz, AT
+    Class: "experience__extra_padding"
+    Positions:
+      - Title:
+        Date:
+        Details:
+          - A web application built to help readers track their reading progress and provide insight.
+          - Users are able to create their own profiles with their reading database which can be updated based on progress.
+          - <a class="contact__link" href="https://github.com/prathik-p/project-flutter" target="_blank">Github Link(frontend)</a>
+          - <a class="contact__link" href="https://github.com/prathik-p/project-fastapi" target="_blank">Github Link(backend)</a>
+        Badges: ["Flutter", "Dart", "Python", "Fast API", "Mysql"]
+  - Employer: ATTENDANCE TRACKER
+    Place: Graz, AT
+    Class: "experience__extra_padding"
+    Positions:
+      - Title:
+        Date:
+        Details:
+          - An application that scrapes attendance information to calculate final attendance percentage and other metrics to provide insight on overall performance.
+          - Users are able to login using their predetermined account information to access the application and also allows them to view latest information related to their profile.
+          - <a class="contact__link" href="https://github.com/UnparallelStudios/Activv" target="_blank">Github Link</a>
+        Badges: ["Flutter", "Dart", "Python", "Flask API", "SQLite"]
+
+Education:
+  - Course: B.Tech Artificial Intelligence and Data Science
+    Place: Rajagiri School of Engineering and Technology
+    Date: 2021-2025
+    Details:
+  - Course: Grade 12
+    Place: Indian School Sohar
+    Date: 2021
+    Details:
+  - Course: Grade 10
+    Place: Indian School Sohar
+    Date: 2019
+    Details:
+
+# References:
+#   - Name: Person One
+#     Relation: Co-worker at Super Cool Company
+#     Contacts:
+#       - Icon: fas fa-phone
+#         Info: +44 123 456 790
+#       - Icon: fas fa-envelope
+#         Info: contact@person-one.com
+#       - Icon: fas fa-map-marker-alt
+#         Info: Melbourne, Australia
+#   - Name: Person Two
+#     Relation: Boss at Super Cool Company
+#     Contacts:
+#       - Icon: fas fa-phone
+#         Info: +44 123 456 791
+#       - Icon: fas fa-envelope
+#         Info: contact@person-two.com
+#       - Icon: fas fa-map-marker-alt
+#         Info: Sydney, Australia
+
+Skills:
+  - Family: Programming
+    Items:
+      - Javascript
+      - Python
+      - HTML
+      - CSS
+      - SASS
+      - SQL
+      - C++
+      - C#
+      - Docker
+      - Dart
+      - Go
+  - Family: Frameworks
+    Items:
+      - Reactjs
+      - Nodejs
+      - MERN
+      - Django
+      - Flask API
+      - Fast API
+      - Hugo
+      - Flutter
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - Firebase
+      - AWS
+  - Family: Soft Skills
+    Items:
+      - Critical Thinking
+      - Team Player
+      - Problem Solving
+      - Adaptability
+
+Languages:
+  - Name: English
+    Level:
+  - Name: Malayalam
+    Level:
+  - Name: Hindi
+    Level:
+  - Name: Japanese
+# Diplomas:
+#   - ISTQB Tester Certification (2019)
+#   - English Cambridge CAE (2009)
+
+# Interests:
+#   - Bouldering
+#   - Cooking
+#   - Windsurfing
+#   - Bossa Nova
+#   - Design
+#   - Languages
