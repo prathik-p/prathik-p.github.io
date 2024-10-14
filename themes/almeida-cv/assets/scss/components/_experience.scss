@@ -87,6 +87,14 @@
     &__bullet {
         list-style: square inside;
         margin-left: 1rem;
+
+        .contact__link {
+            color: rgb(75, 75, 255);
+        }
+
+        .contact__link:hover {
+            text-decoration: underline;
+        }
     }
 
     &__badges {
